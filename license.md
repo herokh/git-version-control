@@ -1,1 +1,1 @@
-License for KMITL
+License for everyone
